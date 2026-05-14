@@ -87,7 +87,7 @@ In the garage we have:
 ## Cost Breakdown
 | Serial # | Product          | Quantity | Price        | Subtotal        |
 |---------:|------------------|---------:|--------------|-----------------|
-| 1        | USR IoT gateway  | 1        | 36,500 PKR   | 36,500 PKR      |
+| 1        | USR IoT gateway (as listed) | 1 | 36,500 PKR | 36,500 PKR |
 | 2        | Smart bulb       | 5        | 1,250 PKR    | 6,250 PKR       |
 | 3        | Smart fan        | 4        | 17,000 PKR   | 68,000 PKR      |
 | 4        | Motion sensor    | 4        | 3,850 PKR    | 15,400 PKR      |

@@ -42,11 +42,13 @@ We created a smart home system which is connected wirelessly with a Home Gateway
 
 ## Control Device
 ![Control device](image.png)
+
 - Smartphone
 - Home Gateway Router
 
 ## Lounge
 ![Lounge](image-2.png)
+
 In the lounge we have several devices:
 - Window
 - Fan
@@ -59,6 +61,7 @@ In the lounge we have several devices:
 
 ## Rooms
 ![Rooms](image-1.png)
+
 In the rooms of the smart home, we have:
 - Window
 - Lights
@@ -68,6 +71,7 @@ In the rooms of the smart home, we have:
 
 ## Kitchen
 ![Kitchen](image-3.png)
+
 In the kitchen we have:
 - Lights
 - Kitchen appliances
@@ -77,6 +81,7 @@ In the kitchen we have:
 
 ## Garden
 ![Garden-img](image-4.png)
+
 In the garden we have:
 - Camera (for security)
 - Door
@@ -85,6 +90,7 @@ In the garden we have:
 
 ## Garage
 ![Garage](image-5.png)
+
 In the garage we have:
 - Smoke detection
 - Car

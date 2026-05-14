@@ -24,7 +24,7 @@
 - [Conclusion](#conclusion)
 
 ## Introduction
-In our Cisco Packet Tracer smart home project, we've simulated a network comprising routers and IoT devices such as smart lights and security cameras. Our focus includes designing automation scenarios for efficient device control, implementing security measures, and emphasizing troubleshooting and simulation for a complete smart home system within the Packet Tracer environment.
+In our smart home project, we've simulated a network comprising routers and IoT devices such as smart lights and security cameras. Our focus includes designing automation scenarios for efficient device control, implementing security measures, and emphasizing troubleshooting and simulation for a complete smart home system within the Packet Tracer environment.
 
 ## Purpose
 The purpose of the smart home project in Cisco Packet Tracer is to provide a hands-on simulation environment for learning and experimenting with networking and Internet of Things (IoT) concepts. This project allows users to explore the integration of various devices and routers within a home network, design automation scenarios, implement security measures, and gain practical experience in troubleshooting and network documentation. It serves as a valuable educational tool for understanding the complexities and functionalities of smart home systems in a controlled, virtual environment.
